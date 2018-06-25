@@ -1,8 +1,8 @@
 var katzDeli = []; 
 
-function takeANumber(katsDeliLine, newPerson){
-  for (let i=1, l = katsDeliLine.length; i < l; i++){
-    return katsDeliLine[index]
+function takeANumber(katzDeliLine, newPerson){
+  for (let i=1, l = katzDeliLine.length; i < l; i++){
+    return katzDeli[index];
     
   }
 }
